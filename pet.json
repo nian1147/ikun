@@ -1,0 +1,29 @@
+{
+  "name": "小灰鸡·左向版",
+  "description": "灰色中分发、红脸颊、黑衣和篮球的小鸡，左向镜像版。",
+  "spritesheet": "spritesheet.png",
+  "sprite_version": 2,
+  "image_format": "PNG RGBA",
+  "width": 1536,
+  "height": 2288,
+  "cell_width": 192,
+  "cell_height": 208,
+  "columns": 8,
+  "rows": 11,
+  "frames_per_row": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "sha256": "ba6fbbafa0c32c29e6364ed026235f665827c0209c4c4888fc31627f4b50feb5",
+  "generation": "Built-in image_gen; deterministic extraction, registration, cleanup and assembly.",
+  "note": "Asset metadata for this repository; not an automatic installation configuration."
+}

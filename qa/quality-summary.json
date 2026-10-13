@@ -1,0 +1,21 @@
+{
+  "structural_validation_passed": true,
+  "quality_gate_passed": true,
+  "sha256": "ba6fbbafa0c32c29e6364ed026235f665827c0209c4c4888fc31627f4b50feb5",
+  "encoded_bytes": 2845515,
+  "populated_frames": 73,
+  "jump": {
+    "idle_baseline": 200,
+    "jump_baselines": [
+      200,
+      191,
+      180,
+      191,
+      200
+    ],
+    "airborne_lift_pixels": 20,
+    "landing_delta_pixels": 0
+  },
+  "live_application_fps_measured": false,
+  "review_note": "Independent visual review accepted with warnings: similar gait phases, subtle gaze directions and small cross-state drawing differences remain."
+}
